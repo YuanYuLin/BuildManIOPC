@@ -1,6 +1,0 @@
-{
-"PACKAGES":{
-  "test"	:{"ENABLE":true},
-  "dummy"	:{"ENABLE":false}
-}
-}

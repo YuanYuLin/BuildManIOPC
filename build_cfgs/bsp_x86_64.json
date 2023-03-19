@@ -1,0 +1,9 @@
+{
+"PACKAGES":{
+  "arch-amd64"			:{"ENABLE":true},
+  "toolchains-musl-amd64"	:{"ENABLE":true},
+  "linux"			:{"ENABLE":true},
+  "test"			:{"ENABLE":true},
+  "dummy"			:{"ENABLE":false}
+  }
+}
